@@ -1,0 +1,1 @@
+print("Controle de fluxo em Python permite tomar decisões no código usando if, elif e else. Exemplo:\n\nidade = 18\nif idade < 18:\n    print('Menor de idade')\nelif idade == 18:\n    print('Tem exatamente 18 anos')\nelse:\n    print('Maior de idade')")
