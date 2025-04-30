@@ -1,0 +1,1 @@
+print("Funções em Python são blocos de código que executam uma tarefa específica. Usamos 'def' para definir uma função. Exemplo:\n\ndef saudacao(nome):\n    print(f'Olá, {nome}!')\n\nsaudacao('Maria')")
