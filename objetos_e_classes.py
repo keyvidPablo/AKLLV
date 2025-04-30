@@ -1,0 +1,1 @@
+print("Exemplo de classe em Python:\n\nclass Pessoa:\n    def _init_(self, nome):\n        self.nome = nome\n    def falar(self):\n        print(f'Olá, eu sou {self.nome}')\n\np = Pessoa('Ana')\np.falar()")
