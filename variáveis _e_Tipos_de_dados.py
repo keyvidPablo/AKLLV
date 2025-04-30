@@ -1,0 +1,1 @@
+print("Variáveis são usadas para guardar valores em Python. Você não precisa declarar o tipo antes, o Python entende sozinho. Alguns tipos de dados comuns são:\n- int (número inteiro): idade = 20\n- float (número com vírgula): altura = 1.75\n- str (texto): nome = 'Ana'\n- bool (verdadeiro ou falso): estudante = True")
