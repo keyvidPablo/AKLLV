@@ -1,0 +1,1 @@
+print("Python é uma linguagem de programação fácil de aprender, poderosa e muito usada. Ela serve para criar sites, jogos, automações, inteligência artificial, análise de dados e muito mais. Possui uma sintaxe simples e direta, ideal para iniciantes e profissionais.")
